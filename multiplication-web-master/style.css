@@ -1,0 +1,71 @@
+#instructions_info {
+  display: none;
+}
+.wrapper {
+  width: 760px;
+  margin: 0 auto;
+}
+table {
+  width: 550px;
+  margin: 20px auto;
+}
+
+#multiple_result {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: large;
+}
+
+h1 {
+	color: lime
+	
+}
+
+.centerr {
+	
+ 
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  text-align: right;
+  
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  
+
+	
+	
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
