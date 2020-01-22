@@ -17,18 +17,18 @@ table {
   font-size: large;
 }
 
+
 h1 {
-	color: lime
-	
+	color: green;
 }
 
-.centerr {
+.center {
 	
- 
-  width: 50%;
+  width: 16%;
   border: 3px solid green;
   padding: 10px;
   text-align: right;
+  
   
   margin: 0;
   position: absolute;
